@@ -181,6 +181,11 @@ body
 
     padding-top: 200px;
     padding-bottom: 200px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 1600px;
 }
 
 .hero-header
@@ -422,8 +427,6 @@ body
 
     background-color: inherit;
     color: #AFB1B8;
-
-    border: 2px dotted brown;
 }
 
 .social-link:hover, .social-link:focus 
@@ -489,7 +492,6 @@ body
 .customers-item-svg 
 {
     fill: currentColor;
-    outline: 1px solid yellowgreen;
 }
 /*--------------------portfolio--main----------*/
 /*
@@ -673,7 +675,6 @@ body
 .footer-social-container
 {
     margin-left: 70px;
-    outline: 1px solid yellow;
 }
 
 .footer-social-header
