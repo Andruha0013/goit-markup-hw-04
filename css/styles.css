@@ -226,6 +226,10 @@ body
     background-color: var(--main-active-color);
 }
 
+.order:hover, .order:focus
+{
+    background-color: #188CE8;
+}
 
 /*.feature
 {
